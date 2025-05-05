@@ -14,7 +14,7 @@ void print_database(char **name, int *hours, float *sales, int n);
 int main()
 {
     int capacity = NUM;
-    int num = 0;
+    int num = 0; // no employee
 
     int opt;
 
