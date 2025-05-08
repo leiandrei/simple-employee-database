@@ -1,6 +1,9 @@
 #include <stdio.h>
 #include <stdlib.h>
 
+// subject for change and updates: addition of struct
+// addition of salary calculator
+
 #define NUM 2
 
 void menu();
