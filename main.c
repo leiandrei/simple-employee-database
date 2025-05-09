@@ -114,7 +114,7 @@ float total_sales(float *sales, int n)
 {
     float total = 0;
     for (int i = 0; i < n; i++) {
-        total += *(sales+i);
+        total += sales[i];
     }
     return total;
 }
